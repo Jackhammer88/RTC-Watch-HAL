@@ -11,3 +11,5 @@ Also on your board must fitted X3 crystal (32.768KHz) and two ceramic capacitor 
 Create a template by STM32CubeMX. STM32CubeMX version is 5.0.1 used. Driver version is STM32Cube FW_F4_V1.23.0. Open watch.ioc file in STM32CubeMX and generate template.
 Connect display to board. Replace files in your project. Build project.
 Enjoy =)
+![](https://user-images.githubusercontent.com/19895415/56723578-e72cde00-6751-11e9-9fe3-7c8ac6c81cd9.jpg)
+![WP_20190425_12_11_30_Pro](https://user-images.githubusercontent.com/19895415/56724989-b0a49280-6754-11e9-8844-4aecee93311a.jpg)
